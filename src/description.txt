@@ -1,0 +1,4 @@
+https://api.openweathermap.org/data/2.5/weather?q=gwalior&appid=46eb88e9575e960524c5be6bdb3813fa
+
+ICON
+https://erikflowers.github.io/weather-icons/
